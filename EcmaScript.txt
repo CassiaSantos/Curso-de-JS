@@ -1,0 +1,13 @@
+JS:
+- criada em 1995;
+- de alto nível --> próxima a linguagem humana;
+- just-in-time compiled
+
+ONDE É UTILIZADO:
+- interagir com HTML e CSS (DOM - document object model);
+- calcular/manipular/validar dados;
+- server-side --> back-end --> Node.js;
+
+RODAR JS NO BROWSER:
+- criar arquivo HTML e linkar com o arquivo .js;
+- <script src="arquivo.js"></script>
