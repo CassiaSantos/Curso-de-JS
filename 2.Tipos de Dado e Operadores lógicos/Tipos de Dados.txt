@@ -1,0 +1,15 @@
+O que são tipos de dados?
+- a classificação/categoria de um dado;
+
+Tipos existentes em JS:
+Number - valores numéricos;
+
+String - cadeia de caracteres
+
+Boolean - V ou F --> comparação de dados/operadores lógicos;
+
+Null - 
+
+Undefined
+
+
